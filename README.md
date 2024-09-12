@@ -30,7 +30,7 @@ CLO (formerly known as CAF) ROMs are built using source code released by CodeLin
 | Xperia 10 IV <sup>Hiatus</sup> | [pdx225](https://github.com/XperiaLabs/device_sony_pdx225) |
 |||
 || _sagami board_ (**SM8350 Platform**, Snapdragon 888) |
-| Xperia 1 III (CLO) <sup>WIP</sup> | [pdx215-clo](https://github.com/XperiaLabs/device_sony_pdx215-clo) |
+| Xperia 1 III (CLO) | [pdx215-clo](https://github.com/XperiaLabs/device_sony_pdx215-clo) |
 | Xperia 1 III (AOSP) <sup>Dropped</sup> | [pdx215](https://github.com/XperiaLabs/device_sony_pdx215-V2) |
 |||
 || _lena board_ (**SM6350 Platform**, Snapdragon 690) |
